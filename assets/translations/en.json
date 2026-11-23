@@ -1,0 +1,58 @@
+{
+  "app_name": "Easy Shop",
+  "onboarding": {
+    "title1": "Shop easily",
+    "body1": "Find everything you need in one place.",
+    "title2": "Fast delivery",
+    "body2": "Your order arrives at your door quickly.",
+    "title3": "Safe payment",
+    "body3": "Pay the way you like, safely.",
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Done"
+  },
+  "login": {
+    "title": "Welcome back",
+    "subtitle": "Log in to continue",
+    "email": "Email",
+    "password": "Password",
+    "button": "Log in",
+    "go_signup": "Don't have an account? Sign up"
+  },
+  "signup": {
+    "title": "Create account",
+    "subtitle": "Sign up to get started",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "button": "Sign up",
+    "go_login": "Already have an account? Log in"
+  },
+  "home": {
+    "title": "Home",
+    "currency": "LYD"
+  },
+  "details": {
+    "add_to_cart": "Add to cart",
+    "added": "Added to cart"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "dark_mode": "Dark mode"
+  },
+  "products": {
+    "headphones": "Headphones",
+    "headphones_desc": "Wireless headphones with clear sound and long battery life.",
+    "watch": "Smart watch",
+    "watch_desc": "Tracks your steps, heart rate and sleep.",
+    "phone": "Phone",
+    "phone_desc": "A fast phone with a great camera and a big screen.",
+    "laptop": "Laptop",
+    "laptop_desc": "A light laptop for study and work.",
+    "camera": "Camera",
+    "camera_desc": "Takes sharp photos and videos.",
+    "bag": "Backpack",
+    "bag_desc": "A strong bag for school and travel."
+  }
+}
